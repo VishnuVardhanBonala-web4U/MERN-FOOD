@@ -1,0 +1,29 @@
+.register {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.register h5 {
+  border-bottom: 2px solid rgb(177, 171, 171);
+  box-shadow: 1px 2px 3px gray;
+}
+.register form {
+  box-shadow: 1px 2px 3px rgb(134, 134, 49);
+  padding: 1rem;
+}
+.register form label {
+  font-size: 10px;
+}
+.register > form input {
+  letter-spacing: 1px;
+}
+.register form input::placeholder {
+  padding: 0.5rem;
+  font-size: 0.5rem;
+}
+.register form input {
+  padding: 0;
+}
