@@ -1,1 +1,12 @@
-# MERN-FOOD
+**Complete MERN-FOOD apllication**
+![Screenshot (343)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/a303d9a6-c794-4671-9a07-e9bd3010f570)
+![Screenshot (344)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/b0828ac6-3cb3-496c-9bba-e5e89c43a928)
+![Screenshot (345)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/6cfbd560-0515-490a-a2a9-b1b5a00ba57c)
+![Screenshot (346)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/9c28c757-ff75-4bc8-83bb-685aff366ab4)
+![Screenshot (347)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/427549b8-ca3a-460c-afc9-f3591fa16e49)
+![Screenshot (337)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/9da18629-1062-4983-9367-2a51eef741cd)
+![Screenshot (338)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/0abfb4e2-6abc-4e9f-bc82-8fcd54854f0f)
+![Screenshot (339)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/58e5b79d-fd7c-47a0-bf8c-c9646789323b)
+![Screenshot (340)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/5d781f61-0555-4ee5-93c8-59a507dc5f30)
+![Screenshot (341)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/f788d791-4677-45bd-a545-c962781dc8e8)
+![Screenshot (342)](https://github.com/VishnuVardhanBonala-web4U/MERN-FOOD/assets/125671722/12f22a95-7bb0-4f7b-bf8f-d981261aa127)
